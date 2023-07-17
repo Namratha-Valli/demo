@@ -1,0 +1,2 @@
+This is file 3.
+Newly added file to feature 2 branch
