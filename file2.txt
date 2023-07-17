@@ -1,1 +1,2 @@
 This is file 2.
+New changes made in file2. To be committed.
